@@ -2,6 +2,6 @@ body {
     background: lightseagreen;
     font-size: large;
     font-family: Georgia;
-    display: flexbox;
+    display: center;
     justify-content: center;
 }
