@@ -1,7 +1,7 @@
 body {
     background: lightseagreen;
-    font-size: xx-large;
+    font-size: large;
     font-family: Georgia;
-    display: flex;
+    display: flexbox;
     justify-content: center;
 }
