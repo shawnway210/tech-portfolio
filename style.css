@@ -3,5 +3,5 @@ body {
     font-size: large;
     font-family: Georgia;
     display: inline-flexbox;
-    text-align: center;
+    justify-content: center;
 }
