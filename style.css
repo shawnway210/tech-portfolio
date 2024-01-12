@@ -1,7 +1,26 @@
 body {
-    background: lightseagreen;
-    font-size: large;
-    font-family: Georgia;
-    display: inline-flexbox;
+    background: rgb(126, 247, 5);
+    font-size: x-large;
+    font-family:fantasy;
+    justify-content:center;
+    display:grid;
+    
+}
+.link{
+    font-size: xx-large;
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
+.h1{
+    display: flex;
+    justify-content: center;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+}
+.p{
+    display: flex;
     justify-content: center;
 }
