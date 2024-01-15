@@ -1,14 +1,14 @@
 body {
-    background: rgb(126, 247, 5);
+    background: rgb(228, 252, 204);
     font-size: x-large;
-    font-family:fantasy;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     justify-content:center;
     display:grid;
     
 }
 .link{
     font-size: xx-large;
-    color: blueviolet;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
 }
@@ -25,5 +25,5 @@ body {
     justify-content: center;
 }
 .a{
-    color: blueviolet; 
+    color: rgb(0, 0, 0); 
 }
